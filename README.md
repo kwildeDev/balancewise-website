@@ -8,7 +8,7 @@ This repository showcases the source code for the BalanceWise Bookkeeping Servic
 
 Experience the website live at:
 
-[BalanceWise Bookkeeping Services](https://<kwildeDev>.github.io/<balancewise-website>)
+[BalanceWise Bookkeeping Services](https://kwildedev.github.io/balancewise-website/)
 
 ## Features
 
